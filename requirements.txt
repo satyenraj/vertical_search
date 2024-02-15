@@ -1,0 +1,8 @@
+flask
+apscheduler
+requests
+BeautifulSoup
+robotexclusionrulesparser
+nltk
+json
+math
